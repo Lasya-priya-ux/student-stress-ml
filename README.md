@@ -58,3 +58,13 @@ The model predicts:
 Lasya Priya  
 MCA Student – SRM Institute of Science & Technology  
 Aspiring Data Science Researcher
+## 📊 Visualizations
+
+### 📈 Graph 1
+![Graph 1](mini_project/graph_1.png)
+
+### 📈 Graph 2
+![Graph 2](mini_project/Graph_2.png)
+
+### 📈 Graph 3
+![Graph 3](mini_project/Graph_3.png)
